@@ -1,9 +1,5 @@
 ---
-author: alexsoin
-head:
-  - - link
-    - rel: canonical
-      href: https://zencod.ru/articles/telegram-bot-vds/
+author: simple-server
 ---
 
 # Как установить и настроить Telegram-бота на VDS
