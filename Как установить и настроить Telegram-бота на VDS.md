@@ -1,5 +1,5 @@
 ---
-Автор: Команда simple-server
+Автор: Команда simple-server.ru
 ---
 
 # Как установить и настроить Telegram-бота на VDS
