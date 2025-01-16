@@ -1,13 +1,5 @@
 ---
-
-author: alexsoin
-head:
-
--
-  - link
-  - rel: canonical
-    href: [https://zencod.ru/articles/webmin-installation/](https://zencod.ru/articles/webmin-installation/)
-
+Автор: Команда simple-server.ru
 ---
 
 # Установка Webmin на Linux
