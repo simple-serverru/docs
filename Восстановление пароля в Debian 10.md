@@ -1,5 +1,5 @@
 ---
-Автор: Команда simple-server
+Автор: Команда simple-server.ru
 ---
 
 # Восстановление пароля в Debian 10
