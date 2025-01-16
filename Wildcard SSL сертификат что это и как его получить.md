@@ -1,5 +1,5 @@
 ---
-Автор: Команда simple-server
+Автор: Команда simple-server.ru
 ---
 
 # Wildcard SSL сертификат: что это и как его получить
