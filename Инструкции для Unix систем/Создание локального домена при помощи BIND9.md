@@ -1,13 +1,5 @@
 ---
-
-author: alexsoin
-head:
-
--
-  - link
-  - rel: canonical
-    href: [https://zencod.ru/articles/bind9-local-domain/](https://zencod.ru/articles/bind9-local-domain/)
-
+Автор: Команда simple-server.ru
 ---
 
 # Создание локального домена при помощи BIND9
